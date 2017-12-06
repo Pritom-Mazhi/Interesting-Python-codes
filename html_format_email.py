@@ -5,8 +5,8 @@ from email.mime.text import MIMEText
 
 host = "smtp.gmail.com"
 port = 587
-username = "testmail3018"
-password = "testing3018"
+username = "your email username" #gmail_username in this case
+password = "your password" #password of that gmail account
 from_email = username
 to_mail_list = ["testmail3018@gmail.com", "rasel_cse07@gmail.com"]
 
